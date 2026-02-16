@@ -1,0 +1,7 @@
+{
+  "name": "VALENTINE WEEK",
+  "description": "A romantic Valentine Week greeting app that generates personalized quotes, wishes, and spoken romantic messages using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
